@@ -1,2 +1,2 @@
-# Landing Page
-Create Image Slider Page
+# Animated web
+Create a beautiful web page
